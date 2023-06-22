@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Library_2023</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_dashboard_user">DashboardUserActivity</string>
+    <string name="title_activity_dashboard_admin">DashboardAdminActivity</string>
+    <string name="new_user_signup">Not have Account? SignUp</string>
+    <string name="title_activity_category_add">CategoryAddActivity</string>
+    <string name="title_activity_book_add">book_add</string>
+</resources>
